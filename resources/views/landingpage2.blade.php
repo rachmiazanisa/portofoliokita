@@ -2,12 +2,13 @@
 
 @section('content')
 
-<header class="masthead">
-      <div class="overlay">
-        <div class="container">
-          <h1 class="display-1 text-white">One Page Wonder</h1>
-          <h2 class="display-4 text-white">Will Rock Your Socks Off</h2>
-        </div>
+  <!-- Header -->
+    <header class="header" id="top">
+      <div class="text-vertical-center">
+        <h1>Start Bootstrap</h1>
+        <h3>Free Bootstrap Themes &amp; Templates</h3>
+        <br>
+        <a href="#about" class="btn btn-dark btn-lg js-scroll-trigger">Find Out More</a>
       </div>
     </header>
 
