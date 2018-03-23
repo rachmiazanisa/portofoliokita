@@ -12,7 +12,7 @@
       </div>
     </header>
 
-    <section>
+    <section id = "aboutus">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6 order-2">
@@ -28,9 +28,7 @@
           </div>
         </div>
       </div>
-    </section>
 
-    <section>
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">

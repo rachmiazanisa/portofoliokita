@@ -13,11 +13,18 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About Us</a>
+              <a class= "nav-link" href="#">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class= "nav-link" href="#">Skills</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#aboutus">About Us</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Contact</a>
             </li>
+            
           </ul>
         </div>
       </div>
