@@ -5,3 +5,4 @@
     <link href="css/one-page-wonder.css" rel="stylesheet">
  <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
