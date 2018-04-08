@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>One Page Wonder - Start Bootstrap Template</title>
+    <title>Our Portfolio</title>
 
     @include('layouts.header')
   </head>

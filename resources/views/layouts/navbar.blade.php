@@ -7,24 +7,22 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home
-                <span class="sr-only">(current)</span>
-              </a>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Home</a>
             </li>
             <li class="nav-item">
-              <a class= "nav-link" href="#">Portfolio</a>
+              <a class= "nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a class= "nav-link" href="#">Skills</a>
+              <a class= "nav-link js-scroll-trigger" href="#skill">Skills</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#aboutus">About Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
             </li>
-            
+
           </ul>
         </div>
       </div>

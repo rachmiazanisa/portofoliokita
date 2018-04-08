@@ -3,7 +3,8 @@
 }
 
 .text-judul {
-  margin-top: 30px;  
+  margin-top: 30px;
+  font-weight: 900;
 
 }
 
@@ -17,10 +18,24 @@
 
 }
 
+.bg-skill{
+  background-color: #c6e5fc;
+  padding-bottom: 40px;
+}
 .img-shadow{
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
-
+.bg-caption{
+  background-color: white;
+  background-size: 00px 80px;
+  background-position: center bottom;
+  opacity: 0.5;
+}
 .carousel-item img{
   filter: brightness(60%);
+}
+
+.navbar a:hover {
+  color: white;
+  font-weight: bold;
 }
